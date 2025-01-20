@@ -5,37 +5,38 @@
 
 # Olá, sou o Victor! 👋
 
-### Sobre mim
+### Sobre mim 🫡
 
-- Tenho **17 anos** e sou apaixonado por tecnologia e programação.
-- Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** e estou no **segundo semestre**.
-- Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
+- Tenho **17 anos** e sou louco por tecnologia e programação.
+- Atualmente estou cursando **Técnico em Desenvolvimento de Sistema no Senai** e estou no **segundo semestre**.
+- Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades técnicas.
 
-### Habilidades
+### Habilidades 🤹🏽‍♂️
 
 Durante meu curso, venho desenvolvendo competências em:
 
-- **Linguagens de programação:**
+- **Linguagens de programação:** 🧑🏽‍💻
   - [ ] HTML/CSS
   - [ ] JavaScript
-  - [ ] Python (se aplicável, adicione aqui outras linguagens que conhece)
-- **Ferramentas:**
+  - [ ] Python
+- **Ferramentas:** 🔧
   - [ ] Git/GitHub
   - [ ] VS Code
+  - [ ] Eclipse
   
-### O que estou aprendendo
+### O que estou aprendendo 📖
 
 - Como criar aplicações web responsivas.
 - Práticas de desenvolvimento ágil e trabalho em equipe.
 - Melhores práticas para resolução de problemas e escrita de código limpo.
 
-### Objetivos
+### Objetivos 🎯
 
 - Me especializar no desenvolvimento full-stack.
 - Participar de projetos colaborativos para ganhar experiência.
 - Continuar aprendendo e crescendo na área de tecnologia.
 
-### Entre em contato
+### Entre em contato 📲
 
 Se quiser conversar ou trocar experiências, fique à vontade para me chamar:
 
