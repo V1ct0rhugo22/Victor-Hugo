@@ -3,7 +3,7 @@
 
 ! Victor (URL da imagem)
 
-# Olá, sou o Victor! 👋
+# Olá, sou Victor! 
 
 ### Sobre mim 🫡
 
