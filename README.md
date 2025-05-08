@@ -49,7 +49,7 @@ Se quiser saber mais sobre mim:
 
  <div>
    <a href="https://github.com/V1ct0rhugo22">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonPer3z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1ct0rhugo22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rhugo22&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
