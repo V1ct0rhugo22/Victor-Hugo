@@ -1,7 +1,7 @@
 # Victor-Hugo
 ## Victão
 
-! Victor (URL da imagem)
+! Victor [(URL da imagem)](https://avatars.githubusercontent.com/u/185539610?s=400&u=399f992cf26bb52ae62e1f7a566a8474951ffb08&v=4)
 
 # Olá, sou Victor! 
 
