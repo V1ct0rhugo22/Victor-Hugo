@@ -29,7 +29,7 @@ Durante meu curso, venho aprendendo sobre:
 ### O que estou aprendendo 📖
 
 - **Desenvolvimento Web**: Criação de sites e integração com bancos de dados.
-- **Metodologias Ágeis**: Gestão de projetos com Scrum e colaboração em equipe.
+- **Metodologias Ágeis**: Gestão de projetos e colaboração em equipe.
 - **Boas Práticas de Programação**: Código limpo, testes e refatoração.
 - **Apps Móveis**: Desenvolvimento para Android e iOS.
 - **Segurança**: Proteção de dados e prevenção de vulnerabilidades.
